@@ -24,7 +24,7 @@ export default function FormContas(){
         <>
             <NavBar active={"contas"} />
             
-            <main className="bg-slate-900 mt-10 m-auto max-w-lg p-2 rounded">
+            <main className="bg-emerald-900 mt-10 m-auto max-w-lg p-2 rounded">
                 <h2 className="text-2xl font-bold">Criar conta</h2>
 
                 <form action={onCreate} className="p-4">
